@@ -48,6 +48,7 @@
 ---
 
 ## 🎉 新闻
+- [X] [2025.01.14]🎯📢 🔗 新增 **Dify 外部知识库集成**！现在支持将 RAGAnything 作为 Dify 平台的外部知识库 API 服务，详见 [dify-knowledge](dify-knowledge/) 目录。
 - [X] [2025.08.12]🎯📢 🔍 RAGAnything 现在支持 **VLM增强查询** 模式！当文档包含图片时，系统可以自动将图片与文本上下文一起直接传递给VLM进行综合多模态分析。
 - [X] [2025.07.05]🎯📢 RAGAnything 新增[上下文配置模块](docs/context_aware_processing.md)，支持为多模态内容处理添加相关上下文信息。
 - [X] [2025.07.04]🎯📢 RAGAnything 现在支持多模态内容查询，实现了集成文本、图像、表格和公式处理的增强检索生成功能。
